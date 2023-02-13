@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This is an update to the react site, hosted on AWS
         </a>
       </header>
     </div>
